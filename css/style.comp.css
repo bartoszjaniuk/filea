@@ -89,7 +89,7 @@ body {
 
 .header {
   min-height: 100vh;
-  background-image: linear-gradient(132deg, #00daded3 0%, rgba(206, 56, 252, 0.822) 100%), url(img/tlo.jpg);
+  background-image: linear-gradient(132deg, #00daded3 0%, rgba(206, 56, 252, 0.822) 100%), url(../img/tlo.jpg);
   background-size: cover;
   z-index: 2;
   position: relative; }
